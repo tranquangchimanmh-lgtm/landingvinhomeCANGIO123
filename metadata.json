@@ -1,0 +1,7 @@
+{
+  "name": "Green Paradise Landing Page",
+  "description": "Trang giới thiệu dự án bất động sản nghỉ dưỡng cao cấp Cần Giờ Green Paradise với hình ảnh điện ảnh, biểu mẫu đăng ký và các điểm nhấn dự án chi tiết.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
